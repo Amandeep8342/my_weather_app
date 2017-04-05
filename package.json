@@ -1,0 +1,19 @@
+{
+  "name": "myweather_app",
+  "version": "1.0.0",
+  "description": "This is my weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amandeepkaur",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amandeep8342/weatherapp1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amandeep8342/weatherapp1/issues"
+  },
+  "homepage": "https://github.com/Amandeep8342/weatherapp1#readme"
+}
